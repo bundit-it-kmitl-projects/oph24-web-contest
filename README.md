@@ -1,5 +1,10 @@
 # OPH 2024 - Web Development Contest
 
+- Node JS Version 16+
+- Express JS Verion 5+ และใช้ EJS เป็น template engine
+- Bootstrap Version 5.3.3+
+- Postgres SQL Version 15+ or Maria DB Version 10+
+
 ให้ผู้เข้าแข่งขันทำการพัฒนาเวบแอพพลิเคชั่น สำหรับซื้อ-ขายเกมส์มือสอง โดยมีฟังก์ชั่นหลักในการทำงานดังนี้
 
 1. ผู้ใช้ทุกคนสามารถเข้าใช้งานเวบไซต์ได้โดยไม่ต้องลงทะเบียน หรือ ล็อคอิน
