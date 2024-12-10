@@ -26,6 +26,10 @@
    - Mobile (เบอร์มือถือ)
    - Email (Email)
 8. เมื่อผู้ชนะกรอกฟอร์มแล้วระบบจะส่ง email ไปที่ผู้ขาย ตาม email ที่กรอกไว้ในประกาศขาย
+
+**หมายเหตุ: ** ให้ใช้ import ไฟล์ sql ที่เตรียมไว้ให้สำหรับข้อมูลตั้งต้น โดยฐานข้อมูลมี ER diagram เป็นดังภาพ
+
+![ER Diagram](https://github.com/bundit-it-kmitl-projects/oph24-web-contest/blob/main/ER%20-%20Web%20Contest.jpg)
    
 ### เกณฑ์การให้คะแนน (เต็ม 50 คะแนน)
 
