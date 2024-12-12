@@ -29,9 +29,19 @@
    - Last name (นามสกุล)
    - Mobile (เบอร์มือถือ)
    - Email (Email)
-8. เมื่อผู้ชนะกรอกฟอร์มแล้วระบบจะส่ง email ไปที่ผู้ขาย ตาม email ที่กรอกไว้ในประกาศขาย
+8. เมื่อผู้ชนะกรอกฟอร์มแล้วระบบจะส่ง email ไปที่ผู้ขาย ตาม email ที่กรอกไว้ในประกาศขาย (แนะนำให้ส่ง email โดย GMAIL - [HOW TO](https://medium.com/@elijahechekwu/sending-emails-in-node-express-js-with-nodemailer-gmail-part-1-67b7da4ae04b))
 
-**หมายเหตุ: ** ให้ใช้ import ไฟล์ sql ที่เตรียมไว้ให้สำหรับข้อมูลตั้งต้น โดยฐานข้อมูลมี ER diagram เป็นดังภาพ
+หน้า Wireframe ของเวบไซต์หน้าหลักๆ มีดังนี้
+1. Homepage
+![homepage](https://github.com/bundit-it-kmitl-projects/oph24-web-contest/blob/main/home.png)
+2. แบบฟอร์มโพสต์ขายเกมส์
+![homepage](https://github.com/bundit-it-kmitl-projects/oph24-web-contest/blob/main/post-game.png)
+3. หน้าสำหรับประมูลเกมส์
+![homepage](https://github.com/bundit-it-kmitl-projects/oph24-web-contest/blob/main/bid-game.png)
+4. แบบฟอร์มบันทึกข้อมูลติดต่อผู้ชนะประมูล
+![homepage](https://github.com/bundit-it-kmitl-projects/oph24-web-contest/blob/main/contact.png)
+
+**หมายเหตุ: ** ทางทีมได้เตรียมฐานข้อมูลไว้ในเครื่องให้แล้ว โดย ER diagram ของฐานข้อมูลเป็นดังภาพ
 
 ![ER Diagram](https://github.com/bundit-it-kmitl-projects/oph24-web-contest/blob/main/ER%20-%20Web%20Contest.jpg)
    
