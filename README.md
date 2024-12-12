@@ -2,8 +2,12 @@
 
 - Node JS Version 16+
 - Express JS Verion 5+ และใช้ EJS เป็น template engine
-- Bootstrap Version 5.3.3+
-- Postgres SQL Version 15+ or Maria DB Version 10+
+- Maria DB Version 10+
+
+**หมายเหตุ:**
+- สามารถเลือกใช้ CSS Framework ได้อิสระ ไม่จำเป็นจะต้องใช้ Bootstrap
+- สามารถใช้ Front-end Framework เช่น Vue JS, React etc.
+- สามารถใช้งาน ORM library ได้
 
 ให้ผู้เข้าแข่งขันทำการพัฒนาเวบแอพพลิเคชั่น สำหรับซื้อ-ขายเกมส์มือสอง โดยมีฟังก์ชั่นหลักในการทำงานดังนี้
 
